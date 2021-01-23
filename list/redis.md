@@ -1,6 +1,6 @@
 # linux安装redis
 ## 解压 
-tar -xzvc redis
+tar -xzvf redis
 ## 安装
 cd redis
 cd src
